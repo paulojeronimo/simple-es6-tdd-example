@@ -1,0 +1,6 @@
+= Simple ES6 TDD Example: Week Training Plan
+
+----
+$ npm install
+$ npm test
+----
